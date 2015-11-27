@@ -1,4 +1,21 @@
-# Android
+# Useful ionic commands
+
+Create a local server that updates the app in the **browser** as changes are saved.
+  
+      ionic serve 
+      
+Updates saved changed in the app in the **android device** VERY USEFUL!!!
+  
+      ionic run android -l -c
+
+### Run chrome as a non secure instance for VPN and ajax
+
+use this commmand inside the desktop link (acceso directo) of chrome, **make sure to close any other running process in the background of chrome (cntrl+alt+supr close every chrome process) and close chrome first**
+
+    "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --args --disable-web-security
+
+
+# Generating Android Builds
 
 ## Non crosswalk build
 
@@ -79,18 +96,3 @@ On Android, the app depends on the Crosswalk browser, and you must have in linke
 
 
 ----------------------------------------------------------
-# Useful ionic commands
-
-Create a local server that updates the app in the **browser** as changes are saved.
-  
-      ionic serve 
-      
-Updates saved changed in the app in the **android device** VERY USEFUL!!!
-  
-      ionic run android -l -c
-
-### Run chrome as a non secure instance for VPN and ajax
-
-use this commmand inside the desktop link (acceso directo) of chrome, **make sure to close any other running process in the background of chrome (cntrl+alt+supr close every chrome process) and close chrome first**
-
-    "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --args --disable-web-security
