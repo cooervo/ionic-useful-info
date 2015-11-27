@@ -15,7 +15,11 @@ use this commmand inside the desktop link (acceso directo) of chrome, **make sur
     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --args --disable-web-security
 
 
-# Generating Android Builds
+-------------------------------------------
+
+# Android Builds
+
+A step by step tutorial of how to build ionic apps for android with and without crosswalk.
 
 ## Non crosswalk build
 
