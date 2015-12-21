@@ -1,4 +1,6 @@
-[This link](myapp://example/) 
+[This link sdadad](myapp://example.com/) 
+
+[This link sdadad](http://example/) 
 
 
 # Useful ionic commands
