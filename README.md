@@ -1,8 +1,3 @@
-[This link sdadad](myapp://example.com/) 
-
-[This link sdadad](http://example/) 
-
-
 # Useful ionic commands
 
 Create a local server that updates the app in the **browser** as changes are saved.
